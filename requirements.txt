@@ -1,0 +1,5 @@
+streamlit>=1.40
+pandas>=2.0
+pytest>=8.0
+# optional, for the Claude matcher:
+# anthropic>=0.40
